@@ -117,13 +117,13 @@ body
     overflow: hidden;
     border-radius: 50%;
 }
-.ps a team1,team2,team3
+.ps a team1.jpg,team2.jpg,team3.jpg
 {
     width: 100%;
     filter: grayscale(100%);
     transition: 0.4s all;
 }
-.ps a:hover > team1,team2,team3
+.ps a:hover > team1.jpg,team2.jpg,team3.jpg
 {
     filter:none;
 }
