@@ -1,0 +1,45 @@
+*
+{
+    padding:2;
+    margin: 2;
+    
+    
+}
+
+.menu-bar
+{
+    background: #34495e;;
+    text-align: center;
+    border-block-end-width: initial;
+}
+
+.menu-bar ul
+{
+    display: inline-flex;
+    list-style: none;
+    color:white;
+}
+.menu-bar ul li
+{
+    
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+}
+.menu-bar ul li a
+{
+    text-decoration: none;
+    color: rgb(138, 68, 68);
+}
+.active, .menu-bar ul li:hover
+{
+    background:#21224357;
+    border-radius: 1px;
+}
+.video
+{
+    padding:0;
+    margin: 2;
+    
+
+}
