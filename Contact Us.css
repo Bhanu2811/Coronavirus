@@ -37,7 +37,7 @@ form
     border: none;
     outline: none;
     border-bottom: 1px solid grey;
-    color:black
+    color:#deb887
     font-size: 18px;
     margin-bottom: 16px;
 
@@ -60,4 +60,4 @@ form .submit:hover
 {
     background-color: #f44336;
     cursor: pointer;
-}
+} 
